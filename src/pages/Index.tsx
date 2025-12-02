@@ -311,8 +311,8 @@ const Index = () => {
                     </CardTitle>
                   </CardHeader>
                   <CardContent className="space-y-2">
-                    <p className="text-base">г. Новоуральск</p>
-                    <p className="text-base">ул. Ленина, д. 1, офис 100</p>
+                    <p className="text-base">624130, Свердловская область</p>
+                    <p className="text-base">г. Новоуральск, ул. Ленина, д. 12</p>
                     <p className="text-sm text-muted-foreground mt-4">
                       <strong>Режим работы:</strong><br />
                       Пн-Пт: 8:00 - 17:00<br />
@@ -331,21 +331,27 @@ const Index = () => {
                   </CardHeader>
                   <CardContent className="space-y-4">
                     <div>
-                      <p className="text-sm text-muted-foreground">Приемная</p>
-                      <a href="tel:+73435123456" className="text-lg font-medium hover:text-primary transition-colors">
-                        +7 (343) 512-34-56
+                      <p className="text-sm text-muted-foreground">Приёмная</p>
+                      <a href="tel:+73437023809" className="text-lg font-medium hover:text-primary transition-colors">
+                        +7 (34370) 2-38-09
                       </a>
                     </div>
                     <div>
                       <p className="text-sm text-muted-foreground">Диспетчерская (круглосуточно)</p>
-                      <a href="tel:+73435123457" className="text-lg font-medium hover:text-primary transition-colors">
-                        +7 (343) 512-34-57
+                      <a href="tel:+73437023810" className="text-lg font-medium hover:text-primary transition-colors">
+                        +7 (34370) 2-38-10
                       </a>
                     </div>
                     <div>
                       <p className="text-sm text-muted-foreground">Аварийная служба</p>
-                      <a href="tel:+73435123458" className="text-lg font-medium hover:text-primary transition-colors">
-                        +7 (343) 512-34-58
+                      <a href="tel:+73437023811" className="text-lg font-medium hover:text-primary transition-colors">
+                        +7 (34370) 2-38-11
+                      </a>
+                    </div>
+                    <div>
+                      <p className="text-sm text-muted-foreground">Важная информация</p>
+                      <a href="tel:+73437023812" className="text-lg font-medium hover:text-primary transition-colors">
+                        +7 (34370) 2-38-12
                       </a>
                     </div>
                   </CardContent>
@@ -384,7 +390,7 @@ const Index = () => {
                   <CardContent>
                     <p className="text-sm">
                       При обнаружении аварийных ситуаций (прорыв труб, отключение электричества, газа) 
-                      немедленно звоните в аварийную службу по телефону <strong>+7 (343) 512-34-58</strong>
+                      немедленно звоните в аварийную службу по телефону <strong>+7 (34370) 2-38-11</strong>
                     </p>
                   </CardContent>
                 </Card>
